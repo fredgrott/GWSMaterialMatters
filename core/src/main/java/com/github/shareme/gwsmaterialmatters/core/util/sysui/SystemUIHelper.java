@@ -14,7 +14,7 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-package com.github.shareme.gwsmaterialmatters.core.util;
+package com.github.shareme.gwsmaterialmatters.core.util.sysui;
 
 import android.app.Activity;
 import android.os.Build;

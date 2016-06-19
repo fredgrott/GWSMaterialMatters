@@ -15,7 +15,7 @@
 * limitations under the License.
 */
 
-package com.github.shareme.gwsmaterialmatters.core.util;
+package com.github.shareme.gwsmaterialmatters.core.util.sysui;
 
 import android.annotation.TargetApi;
 import android.app.ActionBar;
